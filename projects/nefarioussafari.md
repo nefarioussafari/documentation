@@ -1,4 +1,4 @@
-(home)[https://github.com/nefarioussafari/documentation/blob/main/README.md]
+[home](https://github.com/nefarioussafari/documentation/blob/main/README.md)
 # Nefarious Safari
 
 [The Web Site](https://nefarioussafari.github.io/)
