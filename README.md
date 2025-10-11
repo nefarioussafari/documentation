@@ -1,8 +1,8 @@
 # documentation
-A repository for documentation to reference in the learning side o the website.
+A repository for documentation to reference.
 ----
 ### projects
-[Te Aro Health](projects/tearohealth.md)
-[Nefarious Safari](projects/nefarioussafari.md)
+[Te Aro Health](projects/tearohealth.md)  
+[Nefarious Safari](projects/nefarioussafari.md)  
 
 
