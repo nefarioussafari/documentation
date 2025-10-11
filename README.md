@@ -22,5 +22,10 @@ a repository for documentation to reference.
 ---- 
 ### thins to fall back on
 [touch typing](https://www.keybr.com/)
+[voice typing](learning/voice-typing.md)
 
 ----
+
+# Programmatic Language and Behaviour
+A look at pre programmed and post behaviour analysis through the lens of ADHD.
+[Programmtic Language, Behaviour, and Analysis](learning/script-analysis.md)
