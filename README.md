@@ -7,25 +7,22 @@ a repository for documentation to reference.
 [Nefarious Safari](projects/nefarioussafari.md)  
 
 ----
-# text editing
+### text editing
 [Vim](learning/vim.md)  
 [Markdown](learning/markdown.md)  
 [Plain English](learning/plainenglish.md)  
 [Bash](learning/bash.md)  
 
 ---- 
-
-# servers
+### servers
 [ubuntu](learning/unbuntu.md)  
 [aws](learning/aws.md)  
 [digital ocean](learning/digitalocean.md.md)  
 [github](learning/github.md)  
 [analytics](learning/analytics.md)  
 
-
 ---- 
-
-# thins to fall back on
+### thins to fall back on
 [touch typing](www.keybr.com)
 
 ----
