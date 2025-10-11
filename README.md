@@ -9,5 +9,8 @@ a repository for documentation to reference.
 ----
 # Text Editing
 [Vim](learning/vim.md)  
+[Markdown](learning/markdown.md)  
+[Plain English](learning/plainenglish.md)  
+
 
 ---- 
