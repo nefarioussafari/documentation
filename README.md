@@ -21,6 +21,6 @@ a repository for documentation to reference.
 
 ---- 
 ### thins to fall back on
-[touch typing](www.keybr.com)
+[touch typing](https://www.keybr.com/)
 
 ----
