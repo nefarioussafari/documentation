@@ -3,6 +3,7 @@ a repository for documentation to reference.
 ### projects
 [Te Aro Health](projects/tearohealth.md)  
 [Nefarious Safari](projects/nefarioussafari.md)  
+[Website on a Laptop with Git](projects/website-on-a-laptop-with-git.md)  
 
 ----
 ### text editing
