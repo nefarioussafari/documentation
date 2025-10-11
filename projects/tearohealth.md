@@ -3,6 +3,8 @@
 
 [website](https://www.nefarioussafari.github.io/tearo.html)
 
+[original website](https://www.tearohealth.nz)
+
 Create a flipbook version of the Te Aro Health Centre's Website using the Buttons html format. Document process to endure management and updating of static website.
 
 11 October 2025 Concept Started 10.30pm
