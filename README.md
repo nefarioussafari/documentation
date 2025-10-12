@@ -30,3 +30,17 @@ a repository for documentation to reference.
 # Programmatic Language and Behaviour
 A look at pre programmed and post behaviour analysis through the lens of ADHD.
 [Programmtic Language, Behaviour, and Analysis](learning/script-analysis.md)
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8HB3C2GGF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J8HB3C2GGF');
+</script>
+
