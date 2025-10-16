@@ -31,7 +31,22 @@ a repository for documentation to reference.
 A look at pre programmed and post behaviour analysis through the lens of ADHD.
 [Programmtic Language, Behaviour, and Analysis](learning/script-analysis.md)
 
+# Important Information
 
+php msqyl server
+adminer
+user admin 
+password
+
+buttons
+soul
+device
+
+articles
+links
+
+surface level 
+integrated
 
 
 <!-- Google tag (gtag.js) -->
