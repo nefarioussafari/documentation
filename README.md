@@ -1,5 +1,10 @@
 # documentation 
 a repository for documentation to reference.
+
+### Labour Constants
+[Labour Constants](labour-constants.md)  
+
+
 ### projects
 [Te Aro Health](projects/tearohealth.md)  
 [Nefarious Safari](projects/nefarioussafari.md)  
